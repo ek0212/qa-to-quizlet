@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Q&A to Quizlet Converter</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="container">
+    <h1>Q&A to Quizlet Converter</h1>
+    
+    <div class="main-section">
+      <div class="instructions">
+        <details>
+          <summary>How to Use</summary>
+          <ol>
+            <li>Copy Q&A data (two columns)</li>
+            <li>Paste below</li>
+            <li>Click "Format for Quizlet"</li>
+            <li>Review and copy result</li>
+            <li>Go to <a href="https://quizlet.com/create-set" target="_blank">Quizlet</a></li>
+            <li>Click "+ Import"</li>
+            <li>Paste and set delimiters:
+              <ul>
+                <li>Term/definition: Comma</li>
+                <li>Between cards: Semicolon</li>
+              </ul>
+            </li>
+          </ol>
+          <p class="note">Note: Commas in text are converted to ". " automatically</p>
+        </details>
+      </div>
+
+      <div class="input-section">
+        <textarea id="inputText" placeholder="Question&#9;Answer&#10;What is deep learning?&#9;A subset of machine learning that uses neural networks..."></textarea>
+        <button id="formatBtn" class="primary-button">Format for Quizlet</button>
+      </div>
+
+      <div class="preview-section" style="display: none;">
+        <h2>Preview</h2>
+        <div id="preview" class="preview-box"></div>
+        <button id="copyBtn" class="secondary-button" style="display: none;">Copy to Clipboard</button>
+      </div>
+
+      <div id="status" class="status"></div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html> 

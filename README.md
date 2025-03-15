@@ -1,12 +1,12 @@
 # **Q&A to Quizlet Converter** 📚 
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/YOUR_EXTENSION_ID?label=Users&logo=googlechrome&color=brightgreen)](https://chromewebstore.google.com/detail/qa-to-quizlet-converter/YOUR_EXTENSION_ID)  
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/feognkcaiajipiopedkjehnnhdnkmogn?label=Users&logo=googlechrome&color=brightgreen)](https://chromewebstore.google.com/detail/qa-to-quizlet-converter/feognkcaiajipiopedkjehnnhdnkmogn)  
 **Transform your questions and answers into Quizlet flashcards with a simple copy-paste!**  
 
 ## ✨ **Overview**  
 **Q&A to Quizlet Converter** is a **Chrome extension** that lets you convert your two-column Q&A data into formatted Quizlet flashcards. Whether you're working with study guides, test prep materials, or learning resources, this tool makes creating flashcards effortless.
 
-🔗 **Get it on Chrome Web Store:** [Q&A to Quizlet Converter](https://chromewebstore.google.com/detail/qa-to-quizlet-converter/YOUR_EXTENSION_ID)  
+🔗 **Get it on Chrome Web Store:** [Q&A to Quizlet Converter](https://chromewebstore.google.com/detail/qa-to-quizlet-converter/feognkcaiajipiopedkjehnnhdnkmogn)  
 
 ---
 
